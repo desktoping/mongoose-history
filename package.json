@@ -23,24 +23,24 @@
   "author": "Nassor Paulino da Silva <nassor@gmail.com>",
   "contributors": [
     {
-      "name" : "Christopher Britz",
-      "email" : "britztopher@gmail.com",
-      "url" : "https://github.com/britztopher"
+      "name": "Christopher Britz",
+      "email": "britztopher@gmail.com",
+      "url": "https://github.com/britztopher"
     },
     {
-      "name" : "Allan Nienhuis",
-      "url" : "https://github.com/allannienhuis"
+      "name": "Allan Nienhuis",
+      "url": "https://github.com/allannienhuis"
     }
   ],
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/nassor/mongoose-history/issues"
   },
-  "dependencies": {
-    "mongoose": "~4.0.0"
-  },
   "devDependencies": {
     "mocha": "*",
     "should": "*"
+  },
+  "dependencies": {
+    "mongoose": "^4.0.1"
   }
 }
